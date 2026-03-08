@@ -1,0 +1,146 @@
+[
+  {
+    "logo": "https://img.icons8.com/ios7/1200/revolut--v2.jpg",
+    "title": "Email Marketing",
+    "company": "Revolut",
+    "location": "Madrid, Spain",
+    "description": "Revolut is looking for an Email Marketing Specialist to help the team manage campaigns, optimize email performance, and improve customer engagement.",
+    "type": "marketing",
+    "hasDesign": true
+  },
+  {
+    "logo": "https://img.icons8.com/color/1200/dropbox.jpg",
+    "title": "Brand Designer",
+    "company": "Dropbox",
+    "location": "San Francisco, US",
+    "description": "Dropbox is looking for a Brand Designer to help create visually engaging brand assets and maintain design consistency.",
+    "type": "business",
+    "hasDesign": true
+  },
+  {
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbJmZ-f5H-lOhZsuqi9YePtEf2zS1DBmijfw&s",
+    "title": "Email Marketing",
+    "company": "Pitch",
+    "location": "Berlin, Germany",
+    "description": "Pitch is looking for a Customer Marketing Manager to develop campaigns and strengthen customer relationships.",
+    "type": "marketing",
+    "hasDesign": false
+  },
+  {
+    "logo": "https://img.icons8.com/fluent/1200/blinkist.jpg",
+    "title": "Visual Designer",
+    "company": "Blinkist",
+    "location": "Granada, Spain",
+    "description": "Blinkist is looking for a Visual Designer to craft engaging visual experiences for digital products.",
+    "type": "",
+    "hasDesign": true
+  },
+  {
+    "logo": "https://play-lh.googleusercontent.com/92f3HfE75UargLJW2zCemtUUEsjXE7XSQXA76X-xGitBmFi_VI-xSWF9fatzHUuDP8o",
+    "title": "Product Designer",
+    "company": "ClassPass",
+    "location": "Manchester, UK",
+    "description": "ClassPass is looking for a Product Designer to design intuitive user experiences for our platform.",
+    "type": "marketing",
+    "hasDesign": true
+  },
+  {
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQURXSVJcJLHRlQApPQ2jJBniDiuSsdos84MA&s",
+    "title": "Lead Designer",
+    "company": "Canva",
+    "location": "Ontario, Canada",
+    "description": "Canva is looking for a Lead Designer to guide the design team and develop creative concepts.",
+    "type": "",
+    "hasDesign": true
+  },
+  {
+    "logo": "https://img.icons8.com/win10/1200/godaddy.jpg",
+    "title": "Brand Strategist",
+    "company": "GoDaddy",
+    "location": "Marseille, France",
+    "description": "GoDaddy is looking for a Brand Strategist to develop strong brand strategies.",
+    "type": "marketing",
+    "hasDesign": false
+  },
+  {
+    "logo": "https://img.freepik.com/premium-vector/professional-brand-identity-logo-design_659193-41.jpg?semt=ais_rp_50_assets&w=740&q=80",
+    "title": "Data Analyst",
+    "company": "Twitter",
+    "location": "San Diego, US",
+    "description": "Twitter is looking for a Data Analyst to analyze user data and generate insights.",
+    "type": "technology",
+    "hasDesign": false
+  },
+  {
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnuQgB5ShqCGBI9Yb7UG4VfyvGRwlfXN9O-A&s",
+    "title": "Social Media Assistant",
+    "company": "Nomad",
+    "location": "Paris, France",
+    "description": "Nomad is looking for a Social Media Assistant to help manage social media platforms, create engaging content, and grow audience engagement.",
+    "type": "marketing",
+    "hasDesign": true
+  },
+  {
+    "logo": "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/1200/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.jpg",
+    "title": "Social Media Assistant",
+    "company": "Netlify",
+    "location": "Paris, France",
+    "description": "Netlify is looking for a Social Media Assistant to assist the marketing team in managing social media channels and engaging with the online community.",
+    "type": "marketing",
+    "hasDesign": true
+  },
+  {
+    "logo": "https://img.icons8.com/color/1200/dropbox.jpg",
+    "title": "Brand Designer",
+    "company": "Dropbox",
+    "location": "San Francisco, USA",
+    "description": "Dropbox is looking for a Brand Designer to help the design team create brand visuals, marketing materials, and maintain brand consistency.",
+    "type": "marketing",
+    "hasDesign": true
+  },
+  {
+    "logo": "https://cdn-icons-png.flaticon.com/512/3064/3064079.png",
+    "title": "Brand Designer",
+    "company": "Maze",
+    "location": "San Francisco, USA",
+    "description": "Maze is looking for a Brand Designer to support the marketing and product teams by designing brand assets and visual experiences.",
+    "type": "marketing",
+    "hasDesign": true
+  },
+  {
+    "logo": "https://img.icons8.com/color/1200/terraform.jpg",
+    "title": "Interactive Developer",
+    "company": "Terraform",
+    "location": "Hamburg, Germany",
+    "description": "Terraform is looking for an Interactive Developer to build engaging user interfaces and interactive digital experiences.",
+    "type": "technology",
+    "hasDesign": true
+  },
+  {
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQhxlMKIIhaUaKICEUBBxLWvVGpyNHsR2DVQ&s",
+    "title": "Interactive Developer",
+    "company": "Udacity",
+    "location": "Hamburg, Germany",
+    "description": "Udacity is looking for an Interactive Developer to create dynamic learning interfaces and enhance the platform's user experience.",
+    "type": "technology",
+    "hasDesign": true
+  },
+  {
+    "logo": "data:image/png;base64,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",
+    "title": "HR Manager",
+    "company": "Packer",
+    "location": "Lucern, Switzerland",
+    "description": "Packer is looking for an HR Manager to oversee recruitment processes, employee relations, and internal HR operations.",
+    "type": "",
+    "hasDesign": false
+  },
+  {
+    "logo": "https://img.icons8.com/color/1200/webflow.jpg",
+    "title": "HR Manager",
+    "company": "Webflow",
+    "location": "Lucern, Switzerland",
+    "description": "Webflow is looking for an HR Manager to manage employee engagement, recruitment strategies, and HR development initiatives.",
+    "type": "",
+    "hasDesign": false
+  }
+]
