@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Epilogue:ital,wght@0,100..900;1,100..900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Red+Hat+Display:ital,wght@0,300..900;1,300..900&display=swap');
+@import "tailwindcss";
+
+@font-face {
+  font-family: 'ClashDisplay';
+  src: url('./assets/fonts/ClashDisplay.ttf') format('truetype');
+  font-weight: 200 700;
+  font-style: normal;
+}
+
+.font-epilogue{
+  font-family: "Epilogue", sans-serif;
+}
+
+
+.font-red-hat-display {
+  font-family: "Red Hat Display", sans-serif;
+}
+
+.font-clashDisplay{
+  font-family: 'ClashDisplay';
+}
+
+.font-inter {
+  font-family: "Inter", sans-serif;
+}
