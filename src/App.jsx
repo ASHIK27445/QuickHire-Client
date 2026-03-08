@@ -1,4 +1,5 @@
 import './App.css'
+import FeaturedSection from './components/home/FeaturedSection'
 import HeroSection from './components/home/HeroSection'
 import JobBanner from './components/home/JobBanner'
 import JobCategory from './components/home/JobCategory'
@@ -16,7 +17,9 @@ function App() {
         <MarqueSection></MarqueSection>
         <JobCategory></JobCategory>
         <JobBanner></JobBanner>
-        </div>
+        <FeaturedSection></FeaturedSection>
+    
+      </div>
     </div>
     
   )
