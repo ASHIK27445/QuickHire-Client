@@ -1,5 +1,7 @@
 import './App.css'
 import HeroSection from './components/home/HeroSection'
+import JobBanner from './components/home/JobBanner'
+import JobCategory from './components/home/JobCategory'
 import MarqueSection from './components/home/MarqueSection'
 import TopNav from './components/home/TopNav'
 
@@ -12,6 +14,8 @@ function App() {
         <TopNav></TopNav>
         <HeroSection></HeroSection>
         <MarqueSection></MarqueSection>
+        <JobCategory></JobCategory>
+        <JobBanner></JobBanner>
         </div>
     </div>
     
